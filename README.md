@@ -41,7 +41,7 @@ end_lng: longitud where trip ended
 
 ## Acknowledgements
 
-The original dataset can downloaded <a href="https://divvy-tripdata.s3.amazonaws.com/index.html" target="blank">here</a>
+The original dataset can be downloaded <a href="https://divvy-tripdata.s3.amazonaws.com/index.html" target="blank">here</a>
 
 ## Inspiration
 
