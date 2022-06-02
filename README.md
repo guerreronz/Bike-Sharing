@@ -2,7 +2,7 @@
 
 ## Context
 
-Divvy is a bike sharing service in Chicago USA. This dataset contains records of individual rides taken by users of the system. The Divvy system has two classes of users, annual Members, and Casuals who purchase passes good for a single trip or a full day.
+Divvy is a bike sharing service in Chicago USA. This dataset contains records of individual rides taken by users of the system. The Divvy system have two classes of users, Members and Casuals who purchase passes good for a single trip or a full day.
 
 ## Content
 
@@ -45,7 +45,7 @@ The original dataset can be downloaded <a href="https://divvy-tripdata.s3.amazon
 
 ## Inspiration
 
-It can be a very good experience to explore it, it gives you knowledge on how often people use bikes to move around the city and the time spent on it.
+It can be a good experience to explore it, it gives you knowledge on how often people use bikes to move around the city and the time spent on it.
 
 Some ideas worth exploring:
 
